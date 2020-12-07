@@ -4,4 +4,4 @@
 import os
 
 #Let's run the resizer script
-os.system("echo <type your password here> | sudo -S <type the path of your resizer script here>")
+os.system("echo <type your password here> | sudo -S sh <type the path of your resizer script here>")
